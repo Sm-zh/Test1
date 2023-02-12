@@ -1,0 +1,11 @@
+None None None None None 
+None None None None None 
+MATH;201-09;09:00;09:50;UTR ICS;108-01;09:30;10:45;MW MATH;201-09;09:00;09:50;UTR ICS;108-01;09:30;10:45;MW MATH;201-09;09:00;09:50;UTR 
+None None None None None 
+ICS;253-05;11:00;11:50;UTR None ICS;253-05;11:00;11:50;UTR None ICS;253-05;11:00;11:50;UTR 
+None None None None None 
+None None None None None 
+None None None None None 
+None None None None None 
+None None None None None 
+None None None None None 
